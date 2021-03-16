@@ -33,4 +33,4 @@ List seprator Note:
 
 if you have additional language and region, it will change your number formats, so it may effect on your excel, access, ms project and... codes. follow "Settings/Control Panel > Region > Change date, time, or number formats > Additional settings" and change List seprator by click and type English version of ;
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/58658008/111313607-ccc9b980-8675-11eb-8e66-ce165209e981.png)
