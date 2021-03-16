@@ -12,9 +12,7 @@ How to use:
 
 ![image](https://user-images.githubusercontent.com/58658008/111311835-e9fd8880-8673-11eb-8d4b-2edb2959503e.png)
 
-5- again, repeat step 3 and 4, for finish date from this code
-
-"https://github.com/nextnoble/msproject-farsi-calendar-1400/blob/main/Hijri-Shamsi-Finish-Date"
+5- again, repeat step 3 and 4, for finish date from this code "https://github.com/nextnoble/msproject-farsi-calendar-1400/blob/main/Hijri-Shamsi-Finish-Date"
 
 6- click OK, and return to your Gantt Chart, change a field and add new by "Add New Column", and select Text1 and Text2:
 
@@ -25,9 +23,11 @@ How to use:
 
 Note 1: these codes only calculate hijri shamsi date from Start and Finish columns.
 
+
 Note 2: MS Project has no Hijri Shamsi weekends and holidays, and you should add it manualy by "Project > Change Working Time" and new calendar
 
 ![image](https://user-images.githubusercontent.com/58658008/111313160-40b79200-8675-11eb-96dc-e5c41c85b6ce.png)
+
 
 List seprator Note:
 
