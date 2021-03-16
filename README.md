@@ -4,9 +4,11 @@ How to use:
 
 2- go to "Project" tab, and select "Custom Fields"
 
+![image](https://user-images.githubusercontent.com/58658008/111314656-d99add00-8676-11eb-9054-e698d01da15c.png)
+
 3- select a text field, for example "Text1" and click on "Formula" button in custome attributes part
 
-![image](https://user-images.githubusercontent.com/58658008/111310723-a6eee580-8672-11eb-808c-7fbfec87c696.png)
+![image](https://user-images.githubusercontent.com/58658008/111314736-ecadad00-8676-11eb-82d5-7da1d6ce1031.png)
 
 4- copy the code from "https://github.com/nextnoble/msproject-farsi-calendar-1400/blob/main/Hijri-Shamsi-Start-Date" and paste it here, and click OK
 
@@ -15,6 +17,8 @@ How to use:
 5- again, repeat step 3 and 4, for finish date from this code "https://github.com/nextnoble/msproject-farsi-calendar-1400/blob/main/Hijri-Shamsi-Finish-Date"
 
 6- click OK, and return to your Gantt Chart, change a field and add new by "Add New Column", and select Text1 and Text2:
+
+![image](https://user-images.githubusercontent.com/58658008/111310723-a6eee580-8672-11eb-808c-7fbfec87c696.png)
 
 ![image](https://user-images.githubusercontent.com/58658008/111311845-ec5fe280-8673-11eb-8bf3-3f5254d19b65.png)
 
