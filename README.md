@@ -4,15 +4,15 @@ How to use:
 
 2- go to "Project" tab, and select "Custom Fields"
 
-
+![image](https://user-images.githubusercontent.com/58658008/111425547-8e310f00-8708-11eb-8ff5-45f636283eda.png)
 
 3- select a text field, for example "Text1" and click on "Formula" button in custome attributes part
 
-
+![image](https://user-images.githubusercontent.com/58658008/111426137-6aba9400-8709-11eb-9076-11509f271488.png)
 
 4- copy the code from "https://github.com/nextnoble/msproject-farsi-calendar-1400/blob/main/Hijri-Shamsi-Start-Date" and paste it here, and click OK
 
-
+![image](https://user-images.githubusercontent.com/58658008/111426154-7017de80-8709-11eb-9649-e330661efed7.png)
 
 5- again, repeat step 3 and 4, for finish date from this code "https://github.com/nextnoble/msproject-farsi-calendar-1400/blob/main/Hijri-Shamsi-Finish-Date"
 
