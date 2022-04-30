@@ -1,0 +1,9 @@
+(Int((Int([Project Start]-DateValue("21/3/1997 00:00:00"))-Int(Int([Project Start]-DateValue("21/3/1997 00:00:00"))/1461))/365)+1376)
+ & "/" & (IIf(((((Int([Project Start]-DateValue("21/3/1997 00:00:00")))-Int((Int([Project Start]-DateValue("21/3/1997 00:00:00")))/1461))
+ Mod 365))<=186,Int(((((Int([Project Start]-DateValue("21/3/1997 00:00:00")))-Int((Int([Project Start]-DateValue("21/3/1997 00:00:00")))
+/1461)) Mod 365))/31)+1,Int((((((Int([Project Start]-DateValue("21/3/1997 00:00:00")))-Int((Int([Project Start]
+-DateValue("21/3/1997 00:00:00")))/1461)) Mod 365))-186)/30)+7)) & "/" & (IIf(((((Int([Project Start]
+-DateValue("21/3/1997 00:00:00")))-Int((Int([Project Start]-DateValue("21/3/1997 00:00:00")))/1461)) Mod 365))
+<=186,Int(((((Int([Project Start]-DateValue("21/3/1997 00:00:00")))-Int((Int([Project Start]-DateValue("21/3/1997 00:00:00")))/1461))
+ Mod 365)) Mod 31)+1,Int((((((Int([Project Start]-DateValue("21/3/1997 00:00:00")))-Int((Int([Project Start]-DateValue("21/3/1997 00:00:00")
+))/1461)) Mod 365))-186) Mod 30)+1+(IIf((Int([Project Start]-DateValue("21/3/1997 00:00:00"))) Mod 1461=0,1,0))))
